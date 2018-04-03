@@ -44,7 +44,7 @@ body {
     transform-style: preserve-3d;
 }
 
-.card-wrapper:hover .card {
+.card-wrapper:hover .card, .card-wrapper--hover .card {
     transform: rotateY(180deg);
 }
 
