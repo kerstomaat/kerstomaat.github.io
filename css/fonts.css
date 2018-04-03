@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Sofia Pro;
+    src: url('fonts/SofiaProRegular.otf');
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    font-weight: 600;
+    src: url('fonts/SofiaProBold.otf');
+}
+
+@font-face {
+    font-family: Sofia Pro;
+    font-weight: 300;
+    src: url('fonts/SofiaProLight.otf');
+}
